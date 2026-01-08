@@ -1,0 +1,5 @@
+{
+  "name": "LHU AgroMatrix",
+  "description": "A smart agriculture dashboard for monitoring soil moisture, weather conditions, and controlling irrigation systems.",
+  "requestFramePermissions": []
+}
